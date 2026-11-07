@@ -1,0 +1,10 @@
+# Lab device inventory — placeholder addresses only.
+# Replace these with your own GNS3 / EVE-NG / home-lab switches.
+# Never put production devices or real credentials in this file.
+devices:
+  - host: 192.168.100.11
+    username: admin
+    device_type: cisco_ios
+  - host: 192.168.100.12
+    username: admin
+    device_type: cisco_ios
